@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    
+    <p>We respect your privacy and are committed to protecting any information you share with us. This privacy policy explains how we collect, use, and safeguard your information.</p>
+    
+    <h2>Information We Collect</h2>
+    
+    <p>We do not collect any personal information such as your phone number in a manner that can identify you unless you voluntarily provide it to us.</p>
+    
+    <h2>How We Use Your Information</h2>
+    
+    <p>Any information you provide will only be used for the purpose for which you provide it.</p>
+    
+    <h2>Changes to This Policy</h2>
+    
+    <p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.</p>
+    
+    <p>Last updated: [Insert Date]</p>
+</body>
+</html>
+
